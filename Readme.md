@@ -9,7 +9,7 @@ The *Product Management System* is a web-based application developed using *Java
 - *Database Integration:* Uses MySQL for persistent storage.
 - *Thymeleaf Templates:* Dynamic front-end rendering with Thymeleaf.
 - *Spring Boot Framework:* Manages the backend services efficiently.
-- *RESTful APIs:* Supports API-based interactions for product operations.
+- *RESTful APIs:* Supports API-based interactions for product operations
 
 ## 3. Technology Stack
 - *Backend:* Java, Spring Boot, Hibernate
