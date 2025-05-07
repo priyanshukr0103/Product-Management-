@@ -22,4 +22,4 @@ The *Product Management System* is a web-based application developed using *Java
 - Java Development Kit (JDK) 17 or later
 - Eclipse IDE with Spring Boot plugin
 - MySQL Database Server
-- Maven for dependency management
+- Maven for dependency management.
